@@ -1,6 +1,6 @@
 <launch>
 
-  <env name="GAZEBO_MODEL_PATH" value="$(find fetch_gazebo)/models:$(optenv GAZEBO_MODEL_PATH)" />
+  <env name="GAZEBO_MODEL_PATH" value="$(find fetch_gazebo_visualservoing)/models:$(optenv GAZEBO_MODEL_PATH)" />
 
   <arg name="robot" default="fetch"/>
   <arg name="debug" default="false"/>
@@ -14,7 +14,7 @@
     <arg name="paused" value="false"/>
     <arg name="use_sim_time" value="true"/>
     <arg name="headless" value="$(arg headless)"/>
-    <arg name="world_name" value="$(find fetch_gazebo)/worlds/test_zone.sdf"/>
+    <arg name="world_name" value="$(find fetch_gazebo_visualservoing)/worlds/test_zone.sdf"/>
   </include>
 
   <!-- Oh, you wanted a robot? -->
