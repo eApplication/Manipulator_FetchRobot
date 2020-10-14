@@ -10,6 +10,10 @@ catkin_package(
     CATKIN_DEPENDS gazebo_ros
 )
 
+catkin_install_python(PROGRAMS scripts/simulation.py
+    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
+
 include_directories(
 # include
 ${catkin_INCLUDE_DIRS}
