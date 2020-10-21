@@ -6,6 +6,7 @@
 <p align="center">Find cube, Pick cube</p>
 
 ***
+
 ## Introduction
 
 To be continue...
@@ -39,6 +40,7 @@ Run following two commends in terminal:
 
 
 ***
+
 Enjoy playing robot!!
 
 :star: Star us on GitHub — it helps! 
