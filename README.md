@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Simulation of Visual Servoing on Fetch Robot in Gazebo Environment
-
-=======
 # Simulation of Visual Servoing Algorithm on Fetch Robot in Gazebo
 
 |![image](https://github.com/JiadingWen/Manipulator_FetchRobot/blob/master/img/ScreenShot1.gif)|![image](https://github.com/JiadingWen/Manipulator_FetchRobot/blob/master/img/ScreenShot2.gif)|
@@ -10,6 +6,7 @@
 <p align="center">Find cube, Pick cube</p>
 
 ***
+
 ## Introduction
 
 To be continue...
@@ -43,7 +40,7 @@ Run following two commends in terminal:
 
 
 ***
+
 Enjoy playing robot!!
 
 :star: Star us on GitHub — it helps! 
->>>>>>> demo
