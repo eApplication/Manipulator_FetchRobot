@@ -39,11 +39,10 @@ Run following two commends in terminal:
 
 ```
 roslaunch fetch_gazebo_visualservoing environment.launch
-#Create Fetch Robot in Gazebo and prepare robot maipulator
-``` 
-```
+# Create Fetch Robot in Gazebo and prepare robot maipulator
+
 roslaunch fetch_gazebo_visualservoing simulation.launch
-#Using head camera to find the cube and pick it.
+# Using head camera to find the cube and pick it.
 ``` 
 
 ***
